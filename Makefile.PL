@@ -23,7 +23,7 @@ my %WriteMakefileArgs = (
     "Mojolicious" => "5.67",
     "Mojolicious::Plugin::FormFieldsFromJSON" => "0.19"
   },
-  "VERSION" => "0.02",
+  "VERSION" => "0.03",
   "test" => {
     "TESTS" => "t/*.t"
   }
